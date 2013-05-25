@@ -23,5 +23,6 @@ Brake Balance	7	7
 5th	0.932
 6th	0.824
 7th	-
-Final	4.800->4.620
+Final 4.627->4.500
+Final(Custmized)	4.800->4.620
 Auto	300km/h
