@@ -1,28 +1,28 @@
 [Suspension]
-Ride Height 	-15	-15
-Spring Rate	16.7	18.0
+Ride Height 	7	7
+Spring Rate	17.2	18.5
 Damper(Stiffer)	8	8
 Damper(Softer)	8	8
-Anti-roll Bar	6	6
-Camber	2.4	1.8
-Toe	0.00	0.20
+Anti-roll Bar	5	5
+Camber	1.2	0.9
+Toe	0.60	0.00
 
 [LSD]
-Initial		25
-Accelerate		30
-Decelerate		18
+Initial		50
+Accelerate		60
+Decelerate		50
 
 Downforce	40	65
-Brake Balance	7	7
+Brake Balance	5	5
 
 [Gear Ratio]
-1st	2.576
-2nd	1.791
-3rd	1.355
-4th	1.094
-5th	0.932
-6th	0.824
+1st	2.776
+2nd	2.200
+3rd	1.787
+4th	1.490
+5th	1.213
+6th	1.029
 7th	-
-Final 4.627->4.500
+Final 5.500->3.600
 Final(Custmized)	4.800->4.620
-Auto	300km/h
+Auto	200km/h
